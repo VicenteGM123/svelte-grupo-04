@@ -29,7 +29,7 @@ const options = {
     },
     servers: [
       {
-        url: "https://sveltebackendv2.onrender.com",
+        url: "https://sveltebackendv2.onrender.com/",
       },
     ],
   },
