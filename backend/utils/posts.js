@@ -63,7 +63,7 @@ module.exports = [
     puzzle: {
       solution: ["e1e7", "f4f6", "e7f6"],
     },
-    description: "Study your patterns ☝️🥸",
+    description: "Study your patterns ☝🤓",
     tags: ["Short", "Endgame"],
     likes: 1,
   },
